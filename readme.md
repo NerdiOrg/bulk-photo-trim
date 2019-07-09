@@ -1,7 +1,8 @@
 # BulkPhotoTrim v0.0.1
+Authors
 
-Authors:
 William Passmore - Nerdi.org
+
 WUBUR LLC - Wubur.com
 
 ## Specifications / Dependencies
