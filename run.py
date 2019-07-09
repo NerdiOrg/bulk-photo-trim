@@ -21,8 +21,8 @@ def start():
     input("Press any key to start trimming, or close out to cancel.\nEvery png, jpg/jpeg, and gif file in the current directory of this python file will be trimmed!")
     trim(pixels)
     print("\r\n")
-    print("Thank you for using William Passmore's 'usefulPython' bulk image cropping & resizing tool (SmartCropSize.py)!")
-    print("https://github.com/NerdiOrg/usefulPython/blob/master/images/SmartCropSize.py")
+    print("Thank you for using BulkPhotoTrim v0.0.1 - WUBUR LLC - WILLIAM PASSMORE")
+    print("https://github.com/NerdiOrg/bulk-photo-trim")
 
 def trim(pixels):
     searchdir = "./" # end in slash!
